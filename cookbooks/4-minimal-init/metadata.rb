@@ -1,0 +1,2 @@
+name 'minimal-init'
+version '0.0.1'

@@ -1,1 +1,7 @@
-node.json
+{
+  "run_list": [
+      // "recipe[1-intro]"
+      // "recipe[3-resources]"
+      "recipe[4-minimal-init]"
+  ]
+}

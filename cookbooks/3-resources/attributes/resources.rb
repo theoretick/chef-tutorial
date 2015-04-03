@@ -1,0 +1,1 @@
+default['resource']['name'] = "Lucas"
